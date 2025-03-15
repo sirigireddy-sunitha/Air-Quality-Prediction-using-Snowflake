@@ -42,9 +42,9 @@ pip install -r requirements.txt
 
 Create a .env file in the root directory and add your credentials:
 
-SNOWFLAKE_ACCOUNT=lbttlyf-tb48122
+SNOWFLAKE_ACCOUNT= your accout name
 
-SNOWFLAKE_USER=SUNI20
+SNOWFLAKE_USER= your User name
 
 SNOWFLAKE_PASSWORD=Your Password
 
