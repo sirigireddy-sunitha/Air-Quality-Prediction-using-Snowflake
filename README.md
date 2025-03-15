@@ -42,7 +42,7 @@ pip install -r requirements.txt
 
 Create a .env file in the root directory and add your credentials:
 
-SNOWFLAKE_ACCOUNT= your accout name
+SNOWFLAKE_ACCOUNT= your Account name
 
 SNOWFLAKE_USER= your User name
 
